@@ -10,6 +10,7 @@ venv/
 *.pkl
 *.bin
 *.model
+env.txt
 
 # Python
 __pycache__/
